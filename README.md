@@ -17,6 +17,10 @@
 
 </div>
 
+## **NOTE**
+- We're currently working on refactoring this repo.
+- patchfusion_u4k.pt and patchfusion_gta.pt are models trained on unrealstereo4k and mvs-synth datasets, respectively.
+  
 ## **DEMO**
 
 Our official huggingface demo is available [here](https://huggingface.co/spaces/zhyever/PatchFusion)! You can test with your own high-resolution image, even without a local GPU! It only takes 1 minute for depth prediction plus ControlNet generation!
