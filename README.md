@@ -18,6 +18,7 @@
 </div>
 
 ## **NOTE**
+- We have updated the [demo](https://huggingface.co/zhyever/PatchFusion), which supports depth-anything vitl now. The refactored repo will be released soon.
 - We're currently working on refactoring this repo.
 - patchfusion_u4k.pt and patchfusion_gta.pt are models trained on unrealstereo4k and mvs-synth datasets, respectively.
   
