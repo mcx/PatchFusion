@@ -15,6 +15,8 @@
 
 ## ✨ **NEWS**
 
+- 2024-08-16: Check our latest paper [PatchRefiner](https://arxiv.org/abs/2406.06679), in which we optimize the network architecture and try to do real-domain estimation.
+- 2024-08-16: The online demo works normally again.
 - 2024-03-25: Release [inference introduction](./docs/user_infer.md) and [training introduction](./docs/user_training.md).
 - 2024-03-21: Release refactored codes (main branch in this repo).
 - 2024-03-16: Release updated [huggingface demo](https://huggingface.co/spaces/zhyever/PatchFusion), which supports [Depth-Anything](https://github.com/LiheYoung/Depth-Anything).
